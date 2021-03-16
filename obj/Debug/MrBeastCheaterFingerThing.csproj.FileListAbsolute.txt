@@ -1,0 +1,10 @@
+D:\Documents\GitHub\MrBeastCheaterFingerThing\bin\Debug\MrBeastCheaterFingerThing.exe.config
+D:\Documents\GitHub\MrBeastCheaterFingerThing\bin\Debug\MrBeastCheaterFingerThing.exe
+D:\Documents\GitHub\MrBeastCheaterFingerThing\bin\Debug\MrBeastCheaterFingerThing.pdb
+D:\Documents\GitHub\MrBeastCheaterFingerThing\obj\Debug\MrBeastCheaterFingerThing.csprojAssemblyReference.cache
+D:\Documents\GitHub\MrBeastCheaterFingerThing\obj\Debug\MrBeastCheaterFingerThing.Form1.resources
+D:\Documents\GitHub\MrBeastCheaterFingerThing\obj\Debug\MrBeastCheaterFingerThing.Properties.Resources.resources
+D:\Documents\GitHub\MrBeastCheaterFingerThing\obj\Debug\MrBeastCheaterFingerThing.csproj.GenerateResource.cache
+D:\Documents\GitHub\MrBeastCheaterFingerThing\obj\Debug\MrBeastCheaterFingerThing.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\MrBeastCheaterFingerThing\obj\Debug\MrBeastCheaterFingerThing.exe
+D:\Documents\GitHub\MrBeastCheaterFingerThing\obj\Debug\MrBeastCheaterFingerThing.pdb
