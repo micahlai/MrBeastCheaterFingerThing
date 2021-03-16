@@ -64,7 +64,7 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.pictureBox1);
             this.Name = "Form1";
-            this.Text = "I\'m a cheater for 10K";
+            this.Text = "I\'m a cheater";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
